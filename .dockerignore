@@ -1,3 +1,6 @@
-example
+example*
 .travis.yml
 .git
+Makefile
+LICENSE.md
+README.md
